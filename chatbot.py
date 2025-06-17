@@ -3,7 +3,7 @@ from groq import Groq
 import sys
 
 # Set your Groq API key securely
-client = Groq(api_key="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")
+client = Groq(api_key="")
 
 def maternal_chatbot(prompt):
     try:
